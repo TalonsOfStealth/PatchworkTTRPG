@@ -1,0 +1,187 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="CGJdvX7ooLQ8CaN04msj">
+    <mxGraphModel dx="872" dy="755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="light-dark(#FFFFFF,#B99574)" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MUm8Yx6a8LPYP2MQTgBc-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 72px;&quot;&gt;&lt;b&gt;&lt;font face=&quot;Alegreya&quot; style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Path of the Agile&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="70" width="1660" x="20" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CITIgErV4lA5inLDk2w9-1" connectable="0" parent="1" style="group;spacing=5;" value="" vertex="1">
+          <mxGeometry height="140" width="170" x="210" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="MUm8Yx6a8LPYP2MQTgBc-4" parent="CITIgErV4lA5inLDk2w9-1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;gradientColor=light-dark(#99FFCC,#99FFCC);gradientDirection=radial;fillColor=light-dark(#CCFFE6,#CCFFE6);spacing=5;" value="" vertex="1">
+          <mxGeometry height="140" width="170" as="geometry" />
+        </mxCell>
+        <mxCell id="MUm8Yx6a8LPYP2MQTgBc-3" parent="CITIgErV4lA5inLDk2w9-1" style="rounded=1;whiteSpace=wrap;html=1;perimeterSpacing=0;dashed=1;dashPattern=8 4 1 4;fillColor=none;align=left;verticalAlign=middle;fontColor=light-dark(#000000,#000000);fontFamily=Alegreya;spacing=5;" value="&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;span style=&quot;&quot;&gt;Mach Spite (? XP)&amp;nbsp;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;i&gt;☐&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;i&gt;(&lt;b&gt;1&lt;/b&gt; Action, ☐/Sanctuary)&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;justify&quot; style=&quot;line-height: 100%;&quot;&gt;&lt;font style=&quot;font-size: 14px; line-height: 100%;&quot;&gt;For the rest of the scene, your effective speed becomes&amp;nbsp;&lt;b&gt;1&lt;/b&gt;&amp;nbsp;greater than that of the fastest creature in the scene.&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="126.00000000000001" width="160" x="5" y="7" as="geometry" />
+        </mxCell>
+        <mxCell id="CITIgErV4lA5inLDk2w9-2" connectable="0" parent="1" style="group;spacing=5;" value="" vertex="1">
+          <mxGeometry height="80" width="170" x="400" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="CITIgErV4lA5inLDk2w9-3" parent="CITIgErV4lA5inLDk2w9-2" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;gradientColor=light-dark(#99FFCC,#99FFCC);gradientDirection=radial;fillColor=light-dark(#CCFFE6,#CCFFE6);spacing=5;" value="" vertex="1">
+          <mxGeometry height="80" width="170" as="geometry" />
+        </mxCell>
+        <mxCell id="CITIgErV4lA5inLDk2w9-4" parent="CITIgErV4lA5inLDk2w9-2" style="rounded=1;whiteSpace=wrap;html=1;perimeterSpacing=0;dashed=1;dashPattern=8 4 1 4;fillColor=none;align=left;verticalAlign=middle;fontColor=light-dark(#000000,#000000);fontFamily=Alegreya;spacing=5;" value="&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;span style=&quot;&quot;&gt;Limber&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;span style=&quot;&quot;&gt; (? XP)&amp;nbsp;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;i&gt;☐&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;i&gt;(Passive)&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;justify&quot; style=&quot;line-height: 100%;&quot;&gt;&lt;font style=&quot;font-size: 14px; line-height: 100%;&quot;&gt;If your effective speed is below&amp;nbsp;&lt;b&gt;4&lt;/b&gt;, treat it as a &lt;b&gt;4&lt;/b&gt;.&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="72.00000000000001" width="160" x="5" y="4" as="geometry" />
+        </mxCell>
+        <mxCell id="CITIgErV4lA5inLDk2w9-5" connectable="0" parent="1" style="group;spacing=5;" value="" vertex="1">
+          <mxGeometry height="80" width="170" x="120" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="CITIgErV4lA5inLDk2w9-6" parent="CITIgErV4lA5inLDk2w9-5" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;gradientColor=light-dark(#99FFCC,#99FFCC);gradientDirection=radial;fillColor=light-dark(#CCFFE6,#CCFFE6);spacing=5;" value="" vertex="1">
+          <mxGeometry height="80" width="170" as="geometry" />
+        </mxCell>
+        <mxCell id="CITIgErV4lA5inLDk2w9-7" parent="CITIgErV4lA5inLDk2w9-5" style="rounded=1;whiteSpace=wrap;html=1;perimeterSpacing=0;dashed=1;dashPattern=8 4 1 4;fillColor=none;align=left;verticalAlign=middle;fontColor=light-dark(#000000,#000000);fontFamily=Alegreya;spacing=5;" value="&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;span style=&quot;&quot;&gt;Limber+&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;span style=&quot;&quot;&gt; (? XP)&amp;nbsp;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;i&gt;☐&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;i&gt;(Upgrade)&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;justify&quot;&gt;&lt;div align=&quot;justify&quot; style=&quot;line-height: 100%;&quot;&gt;&lt;font style=&quot;font-size: 14px; line-height: 100%;&quot;&gt;If your effective speed is below&amp;nbsp;&lt;b&gt;6&lt;/b&gt;, treat it as a &lt;b&gt;6&lt;/b&gt;.&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="72.00000000000001" width="160" x="5" y="4" as="geometry" />
+        </mxCell>
+        <mxCell id="CITIgErV4lA5inLDk2w9-8" connectable="0" parent="1" style="group;spacing=5;" value="" vertex="1">
+          <mxGeometry height="100" width="170" x="640" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="CITIgErV4lA5inLDk2w9-9" parent="CITIgErV4lA5inLDk2w9-8" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;gradientColor=light-dark(#99FFCC,#99FFCC);gradientDirection=radial;fillColor=light-dark(#CCFFE6,#CCFFE6);spacing=5;" value="" vertex="1">
+          <mxGeometry height="100.00000000000006" width="170" as="geometry" />
+        </mxCell>
+        <mxCell id="CITIgErV4lA5inLDk2w9-10" parent="CITIgErV4lA5inLDk2w9-8" style="rounded=1;whiteSpace=wrap;html=1;perimeterSpacing=0;dashed=1;dashPattern=8 4 1 4;fillColor=none;align=left;verticalAlign=middle;fontColor=light-dark(#000000,#000000);fontFamily=Alegreya;spacing=5;" value="&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;span style=&quot;&quot;&gt;Double Time&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;span style=&quot;&quot;&gt; (? XP)&amp;nbsp;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;i&gt;☐&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;i&gt;(&lt;b&gt;1&lt;/b&gt;&amp;nbsp;Action, &lt;b&gt;2&lt;/b&gt; Resolve,&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;i&gt;☐&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;i&gt;/Scene&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;i&gt;)&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;justify&quot; style=&quot;line-height: 100%;&quot;&gt;&lt;font style=&quot;font-size: 14px; line-height: 100%;&quot;&gt;Your effective speed is doubled for the rest of the scene.&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90.00000000000004" width="160" x="5" y="5.000000000000002" as="geometry" />
+        </mxCell>
+        <mxCell id="CITIgErV4lA5inLDk2w9-11" connectable="0" parent="1" style="group;spacing=5;" value="" vertex="1">
+          <mxGeometry height="170" width="170" x="1200" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="CITIgErV4lA5inLDk2w9-12" parent="CITIgErV4lA5inLDk2w9-11" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;gradientColor=light-dark(#99FFCC,#99FFCC);gradientDirection=radial;fillColor=light-dark(#CCFFE6,#CCFFE6);spacing=5;" value="" vertex="1">
+          <mxGeometry height="170" width="170" as="geometry" />
+        </mxCell>
+        <mxCell id="CITIgErV4lA5inLDk2w9-13" parent="CITIgErV4lA5inLDk2w9-11" style="rounded=1;whiteSpace=wrap;html=1;perimeterSpacing=0;dashed=1;dashPattern=8 4 1 4;fillColor=none;align=left;verticalAlign=middle;fontColor=light-dark(#000000,#000000);fontFamily=Alegreya;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;spacing=5;" value="&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;span style=&quot;&quot;&gt;Coyote Time&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;span style=&quot;&quot;&gt; (? XP)&amp;nbsp;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;i&gt;☐&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;i&gt;(Passive)&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;justify&quot; style=&quot;line-height: 100%;&quot;&gt;&lt;font style=&quot;font-size: 14px; line-height: 100%;&quot;&gt;You can move horizontally across air and non dangerous liquids as long as you do not stop, and travel a number of meters equal to your speed, or less&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="153.00000000000003" width="160" x="5" y="8.500000000000002" as="geometry" />
+        </mxCell>
+        <mxCell id="CITIgErV4lA5inLDk2w9-14" connectable="0" parent="1" style="group;spacing=5;" value="" vertex="1">
+          <mxGeometry height="120" width="170" x="890" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="CITIgErV4lA5inLDk2w9-15" parent="CITIgErV4lA5inLDk2w9-14" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;gradientColor=light-dark(#99FFCC,#99FFCC);gradientDirection=radial;fillColor=light-dark(#CCFFE6,#CCFFE6);spacing=5;" value="" vertex="1">
+          <mxGeometry height="120" width="170" as="geometry" />
+        </mxCell>
+        <mxCell id="CITIgErV4lA5inLDk2w9-16" parent="CITIgErV4lA5inLDk2w9-14" style="rounded=1;whiteSpace=wrap;html=1;perimeterSpacing=0;dashed=1;dashPattern=8 4 1 4;fillColor=none;align=left;verticalAlign=middle;fontColor=light-dark(#000000,#000000);fontFamily=Alegreya;spacing=5;" value="&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;span style=&quot;&quot;&gt;Athletic&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;span style=&quot;&quot;&gt; (0 XP)&amp;nbsp;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;i&gt;☒&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;i&gt;(Passive)&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;justify&quot; style=&quot;line-height: 100%;&quot;&gt;&lt;font style=&quot;font-size: 14px; line-height: 100%;&quot;&gt;You automatically succeed on skill checks&amp;nbsp;make to swim, or climb vertical surfaces.&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="108.00000000000003" width="160" x="5" y="6.000000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="CITIgErV4lA5inLDk2w9-17" connectable="0" parent="1" style="group;spacing=5;" value="" vertex="1">
+          <mxGeometry height="120" width="170" x="1190" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="CITIgErV4lA5inLDk2w9-18" parent="CITIgErV4lA5inLDk2w9-17" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;gradientColor=light-dark(#99FFCC,#99FFCC);gradientDirection=radial;fillColor=light-dark(#CCFFE6,#CCFFE6);spacing=5;" value="" vertex="1">
+          <mxGeometry height="119.99999999999999" width="170" as="geometry" />
+        </mxCell>
+        <mxCell id="CITIgErV4lA5inLDk2w9-19" parent="CITIgErV4lA5inLDk2w9-17" style="rounded=1;whiteSpace=wrap;html=1;perimeterSpacing=0;dashed=1;dashPattern=8 4 1 4;fillColor=none;align=left;verticalAlign=middle;fontColor=light-dark(#000000,#000000);fontFamily=Alegreya;spacingLeft=0;spacingRight=0;spacingTop=0;spacingBottom=0;spacing=5;" value="&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;span style=&quot;&quot;&gt;Super Jump&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;span style=&quot;&quot;&gt; (? XP)&amp;nbsp;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;i&gt;☐&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;i&gt;(&lt;b&gt;1&lt;/b&gt;&amp;nbsp;Action, &lt;b&gt;1&lt;/b&gt;&amp;nbsp;Resolve)&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;justify&quot; style=&quot;line-height: 100%;&quot;&gt;&lt;font style=&quot;font-size: 14px; line-height: 100%;&quot;&gt;You move &lt;b&gt;6m&lt;/b&gt; in any direction provided you do not pass through solid material.&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="108.00000000000001" width="160" x="5" y="6" as="geometry" />
+        </mxCell>
+        <mxCell id="CITIgErV4lA5inLDk2w9-20" connectable="0" parent="1" style="group;spacing=5;" value="" vertex="1">
+          <mxGeometry height="120" width="170" x="940" y="830" as="geometry" />
+        </mxCell>
+        <mxCell id="CITIgErV4lA5inLDk2w9-21" parent="CITIgErV4lA5inLDk2w9-20" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;gradientColor=light-dark(#99FFCC,#99FFCC);gradientDirection=radial;fillColor=light-dark(#CCFFE6,#CCFFE6);spacing=5;" value="" vertex="1">
+          <mxGeometry height="120" width="170" as="geometry" />
+        </mxCell>
+        <mxCell id="CITIgErV4lA5inLDk2w9-22" parent="CITIgErV4lA5inLDk2w9-20" style="rounded=1;whiteSpace=wrap;html=1;perimeterSpacing=0;dashed=1;dashPattern=8 4 1 4;fillColor=none;align=left;verticalAlign=middle;fontColor=light-dark(#000000,#000000);fontFamily=Alegreya;spacing=5;" value="&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;span style=&quot;&quot;&gt;Charge! (? XP)&amp;nbsp;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;i&gt;☐&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;i&gt;(Passive)&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;justify&quot; style=&quot;line-height: 100%;&quot;&gt;&lt;font style=&quot;font-size: 14px; line-height: 100%;&quot;&gt;Roll &lt;b&gt;+d6&lt;/b&gt;&amp;nbsp;when making a roll to damage something after running &lt;b&gt;6m&lt;/b&gt;&amp;nbsp;or more into it.&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="108.00000000000001" width="160" x="5" y="6" as="geometry" />
+        </mxCell>
+        <mxCell id="AkPsbEexfX7PVrYGP40J-1" connectable="0" parent="1" style="group;spacing=5;" value="" vertex="1">
+          <mxGeometry height="100" width="170" x="640" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="AkPsbEexfX7PVrYGP40J-2" parent="AkPsbEexfX7PVrYGP40J-1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;gradientColor=light-dark(#99FFCC,#99FFCC);gradientDirection=radial;fillColor=light-dark(#CCFFE6,#CCFFE6);spacing=5;" value="" vertex="1">
+          <mxGeometry height="100" width="170" as="geometry" />
+        </mxCell>
+        <mxCell id="AkPsbEexfX7PVrYGP40J-3" parent="AkPsbEexfX7PVrYGP40J-1" style="rounded=1;whiteSpace=wrap;html=1;perimeterSpacing=0;dashed=1;dashPattern=8 4 1 4;fillColor=none;align=left;verticalAlign=middle;fontColor=light-dark(#000000,#000000);fontFamily=Alegreya;spacingLeft=0;spacingRight=0;spacingTop=0;spacingBottom=0;spacing=5;" value="&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;span style=&quot;&quot;&gt;Adrenaline&amp;nbsp;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;span style=&quot;&quot;&gt;(? XP)&amp;nbsp;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;i&gt;☐&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;i&gt;(Passive)&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;justify&quot; style=&quot;line-height: 100%;&quot;&gt;&lt;font style=&quot;font-size: 14px; line-height: 100%;&quot;&gt;While in peril, your effective movement speed is doubled.&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90.00000000000003" width="160" x="5" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="AkPsbEexfX7PVrYGP40J-4" connectable="0" parent="1" style="group;spacing=5;" value="" vertex="1">
+          <mxGeometry height="120" width="170" x="910" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="AkPsbEexfX7PVrYGP40J-5" parent="AkPsbEexfX7PVrYGP40J-4" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;gradientColor=light-dark(#99FFCC,#99FFCC);gradientDirection=radial;fillColor=light-dark(#CCFFE6,#CCFFE6);spacing=5;" value="" vertex="1">
+          <mxGeometry height="120" width="170" as="geometry" />
+        </mxCell>
+        <mxCell id="AkPsbEexfX7PVrYGP40J-6" parent="AkPsbEexfX7PVrYGP40J-4" style="rounded=1;whiteSpace=wrap;html=1;perimeterSpacing=0;dashed=1;dashPattern=8 4 1 4;fillColor=none;align=left;verticalAlign=middle;fontColor=light-dark(#000000,#000000);fontFamily=Alegreya;spacingLeft=0;spacingRight=0;spacingTop=0;spacingBottom=0;spacing=5;" value="&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;span style=&quot;&quot;&gt;Like Wind&amp;nbsp;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;span style=&quot;&quot;&gt;(? XP)&amp;nbsp;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;i&gt;☐&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;i&gt;(Passive)&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;justify&quot; style=&quot;line-height: 100%;&quot;&gt;&lt;font style=&quot;font-size: 14px; line-height: 100%;&quot;&gt;You can pass through visible hazards without being effected, as long as you do not stop in them.&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="108.00000000000004" width="160" x="5" y="6" as="geometry" />
+        </mxCell>
+        <mxCell id="SFLqxWl9wwluummD9H-M-1" connectable="0" parent="1" style="group;spacing=5;" value="" vertex="1">
+          <mxGeometry height="90" width="170" x="640" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="SFLqxWl9wwluummD9H-M-2" parent="SFLqxWl9wwluummD9H-M-1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;gradientColor=light-dark(#99FFCC,#99FFCC);gradientDirection=radial;fillColor=light-dark(#CCFFE6,#CCFFE6);spacing=5;" value="" vertex="1">
+          <mxGeometry height="90" width="170" as="geometry" />
+        </mxCell>
+        <mxCell id="SFLqxWl9wwluummD9H-M-3" parent="SFLqxWl9wwluummD9H-M-1" style="rounded=1;whiteSpace=wrap;html=1;perimeterSpacing=0;dashed=1;dashPattern=8 4 1 4;fillColor=none;align=left;verticalAlign=middle;fontColor=light-dark(#000000,#000000);fontFamily=Alegreya;spacingLeft=0;spacingRight=0;spacingTop=0;spacingBottom=0;spacing=5;" value="&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;span style=&quot;&quot;&gt;Speed Boost&amp;nbsp;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;span style=&quot;&quot;&gt;(0 XP)&amp;nbsp;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;i&gt;☒&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;i&gt;(&lt;b&gt;1&lt;/b&gt;&amp;nbsp;Resolve)&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;justify&quot; style=&quot;line-height: 100%;&quot;&gt;&lt;font style=&quot;font-size: 14px; line-height: 100%;&quot;&gt;&lt;b&gt;+1&lt;/b&gt; effective speed for the rest of the scene.&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="81.00000000000003" width="160" x="5" y="4.5" as="geometry" />
+        </mxCell>
+        <mxCell id="SFLqxWl9wwluummD9H-M-5" connectable="0" parent="1" style="group;spacing=5;" value="" vertex="1">
+          <mxGeometry height="140" width="170" x="310" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="SFLqxWl9wwluummD9H-M-6" parent="SFLqxWl9wwluummD9H-M-5" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;gradientColor=light-dark(#99FFCC,#99FFCC);gradientDirection=radial;fillColor=light-dark(#CCFFE6,#CCFFE6);spacing=5;" value="" vertex="1">
+          <mxGeometry height="140.00000000000006" width="170" as="geometry" />
+        </mxCell>
+        <mxCell id="SFLqxWl9wwluummD9H-M-7" parent="SFLqxWl9wwluummD9H-M-5" style="rounded=1;whiteSpace=wrap;html=1;perimeterSpacing=0;dashed=1;dashPattern=8 4 1 4;fillColor=none;align=left;verticalAlign=middle;fontColor=light-dark(#000000,#000000);fontFamily=Alegreya;spacing=5;" value="&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;span style=&quot;&quot;&gt;Slipstream (? XP)&amp;nbsp;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;i&gt;☐&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;i&gt;(Passive)&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;justify&quot;&gt;&lt;font style=&quot;font-size: 14px; line-height: 100%;&quot;&gt;Every time you use&amp;nbsp;&lt;b&gt;Double Time&lt;/b&gt;, choose up to&amp;nbsp;&lt;b&gt;2&lt;/b&gt;&amp;nbsp;additional willing creatures to also be effected.&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="126.00000000000006" width="160" x="5" y="7.000000000000003" as="geometry" />
+        </mxCell>
+        <mxCell id="SFLqxWl9wwluummD9H-M-8" connectable="0" parent="1" style="group;spacing=5;" value="" vertex="1">
+          <mxGeometry height="140" width="170" x="1190" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="SFLqxWl9wwluummD9H-M-9" parent="SFLqxWl9wwluummD9H-M-8" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;gradientColor=light-dark(#99FFCC,#99FFCC);gradientDirection=radial;fillColor=light-dark(#CCFFE6,#CCFFE6);spacing=5;" value="" vertex="1">
+          <mxGeometry height="140.00000000000009" width="170" as="geometry" />
+        </mxCell>
+        <mxCell id="SFLqxWl9wwluummD9H-M-10" parent="SFLqxWl9wwluummD9H-M-8" style="rounded=1;whiteSpace=wrap;html=1;perimeterSpacing=0;dashed=1;dashPattern=8 4 1 4;fillColor=none;align=left;verticalAlign=middle;fontColor=light-dark(#000000,#000000);fontFamily=Alegreya;spacing=5;" value="&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;span style=&quot;&quot;&gt;Quick Hands (? XP)&amp;nbsp;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;i&gt;☐&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;i&gt;(&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;i&gt;☐&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;i&gt;/Scene)&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;justify&quot; style=&quot;line-height: 100%;&quot;&gt;&lt;font style=&quot;font-size: 14px; line-height: 100%;&quot;&gt;When you take an action that requires you to make a &lt;b&gt;d6&lt;/b&gt; roll, you can take a cut &lt;b&gt;1&lt;/b&gt;&amp;nbsp;to make it cost &lt;b&gt;1&lt;/b&gt;&amp;nbsp;less action.&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="126.00000000000006" width="160" x="5" y="7.000000000000003" as="geometry" />
+        </mxCell>
+        <mxCell id="SFLqxWl9wwluummD9H-M-11" connectable="0" parent="1" style="group;spacing=5;" value="" vertex="1">
+          <mxGeometry height="120" width="170" x="390" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="SFLqxWl9wwluummD9H-M-12" parent="SFLqxWl9wwluummD9H-M-11" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;gradientColor=light-dark(#99FFCC,#99FFCC);gradientDirection=radial;fillColor=light-dark(#CCFFE6,#CCFFE6);spacing=5;" value="" vertex="1">
+          <mxGeometry height="120" width="170" as="geometry" />
+        </mxCell>
+        <mxCell id="SFLqxWl9wwluummD9H-M-13" parent="SFLqxWl9wwluummD9H-M-11" style="rounded=1;whiteSpace=wrap;html=1;perimeterSpacing=0;dashed=1;dashPattern=8 4 1 4;fillColor=none;align=left;verticalAlign=middle;fontColor=light-dark(#000000,#000000);fontFamily=Alegreya;spacingLeft=0;spacingRight=0;spacingTop=0;spacingBottom=0;spacing=5;" value="&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;span style=&quot;&quot;&gt;Speed Spiral&amp;nbsp;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;span style=&quot;&quot;&gt;(? XP)&amp;nbsp;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;i&gt;☐&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;i&gt;(Passive)&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;justify&quot; style=&quot;line-height: 100%;&quot;&gt;&lt;font style=&quot;font-size: 14px; line-height: 100%;&quot;&gt;When you roll a critical success, gain &lt;b&gt;+1&lt;/b&gt;&amp;nbsp;effective speed until the next time you rest at a sanctuary.&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="108.00000000000003" width="160" x="5" y="6" as="geometry" />
+        </mxCell>
+        <mxCell id="SFLqxWl9wwluummD9H-M-14" connectable="0" parent="1" style="group;spacing=5;" value="" vertex="1">
+          <mxGeometry height="120" width="170" x="1240" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="SFLqxWl9wwluummD9H-M-15" parent="SFLqxWl9wwluummD9H-M-14" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;gradientColor=light-dark(#99FFCC,#99FFCC);gradientDirection=radial;fillColor=light-dark(#CCFFE6,#CCFFE6);spacing=5;" value="" vertex="1">
+          <mxGeometry height="120" width="170" as="geometry" />
+        </mxCell>
+        <mxCell id="SFLqxWl9wwluummD9H-M-16" parent="SFLqxWl9wwluummD9H-M-14" style="rounded=1;whiteSpace=wrap;html=1;perimeterSpacing=0;dashed=1;dashPattern=8 4 1 4;fillColor=none;align=left;verticalAlign=middle;fontColor=light-dark(#000000,#000000);fontFamily=Alegreya;spacingLeft=0;spacingRight=0;spacingTop=0;spacingBottom=0;spacing=5;" value="&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;span style=&quot;&quot;&gt;Blur&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;span style=&quot;&quot;&gt;&amp;nbsp;(? XP)&amp;nbsp;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;i&gt;☐&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;i&gt;(Passive)&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;justify&quot; style=&quot;line-height: 100%;&quot;&gt;&lt;font style=&quot;font-size: 14px; line-height: 100%;&quot;&gt;For every&amp;nbsp;&lt;b&gt;10m&lt;/b&gt;&amp;nbsp;of speed you have, creatures gain a &lt;b&gt;cut&amp;nbsp;1&lt;/b&gt;&amp;nbsp;when rolling against you.&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="108.00000000000003" width="160" x="5" y="6" as="geometry" />
+        </mxCell>
+        <mxCell id="sQCWTHDNCmR0NUjEQE_5-2" connectable="0" parent="1" style="group;spacing=5;" value="" vertex="1">
+          <mxGeometry height="120" width="170" x="1450" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="sQCWTHDNCmR0NUjEQE_5-3" parent="sQCWTHDNCmR0NUjEQE_5-2" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;gradientColor=light-dark(#99FFCC,#99FFCC);gradientDirection=radial;fillColor=light-dark(#CCFFE6,#CCFFE6);spacing=5;" value="" vertex="1">
+          <mxGeometry height="120" width="170" as="geometry" />
+        </mxCell>
+        <mxCell id="sQCWTHDNCmR0NUjEQE_5-4" parent="sQCWTHDNCmR0NUjEQE_5-2" style="rounded=1;whiteSpace=wrap;html=1;perimeterSpacing=0;dashed=1;dashPattern=8 4 1 4;fillColor=none;align=left;verticalAlign=middle;fontColor=light-dark(#000000,#000000);fontFamily=Alegreya;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;spacing=5;" value="&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;span style=&quot;&quot;&gt;Hot Coals&amp;nbsp;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;span style=&quot;&quot;&gt;(? XP)&amp;nbsp;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;i&gt;☐&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;i&gt;(&lt;b&gt;2&lt;/b&gt;&amp;nbsp;Resolve)&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;justify&quot; style=&quot;line-height: 100%;&quot;&gt;&lt;font style=&quot;font-size: 14px; line-height: 100%;&quot;&gt;You can now use&amp;nbsp;&lt;b&gt;Coyote Time&lt;/b&gt;&amp;nbsp;on dangerous liquids for the rest of the scene.&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="108.00000000000003" width="160" x="5" y="6.000000000000002" as="geometry" />
+        </mxCell>
+        <mxCell id="sQCWTHDNCmR0NUjEQE_5-6" edge="1" parent="1" source="CITIgErV4lA5inLDk2w9-9" style="rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#000000);strokeWidth=2;edgeStyle=orthogonalEdgeStyle;dashed=1;dashPattern=8 4 1 4;flowAnimation=0;shadow=0;curved=0;" target="SFLqxWl9wwluummD9H-M-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sQCWTHDNCmR0NUjEQE_5-7" edge="1" parent="1" source="CITIgErV4lA5inLDk2w9-3" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;shadow=0;dashed=1;dashPattern=8 4 1 4;strokeColor=light-dark(#000000,#000000);strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;flowAnimation=0;" target="CITIgErV4lA5inLDk2w9-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sQCWTHDNCmR0NUjEQE_5-8" edge="1" parent="1" source="SFLqxWl9wwluummD9H-M-2" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;shadow=0;dashed=1;dashPattern=8 4 1 4;strokeColor=light-dark(#000000,#000000);strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;flowAnimation=0;" target="CITIgErV4lA5inLDk2w9-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sQCWTHDNCmR0NUjEQE_5-9" edge="1" parent="1" source="SFLqxWl9wwluummD9H-M-2" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=0;dashed=1;dashPattern=8 4 1 4;strokeColor=light-dark(#000000,#000000);strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;flowAnimation=0;" target="AkPsbEexfX7PVrYGP40J-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sQCWTHDNCmR0NUjEQE_5-10" edge="1" parent="1" source="SFLqxWl9wwluummD9H-M-2" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;shadow=0;dashed=1;dashPattern=8 4 1 4;strokeColor=light-dark(#000000,#000000);strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;flowAnimation=0;" target="CITIgErV4lA5inLDk2w9-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="725" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sQCWTHDNCmR0NUjEQE_5-12" edge="1" parent="1" source="SFLqxWl9wwluummD9H-M-2" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;shadow=0;dashed=1;dashPattern=8 4 1 4;strokeColor=light-dark(#000000,#000000);strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;flowAnimation=0;" target="MUm8Yx6a8LPYP2MQTgBc-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="475" y="555" />
+              <mxPoint x="475" y="610" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sQCWTHDNCmR0NUjEQE_5-14" edge="1" parent="1" source="SFLqxWl9wwluummD9H-M-2" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=0;dashed=1;dashPattern=8 4 1 4;strokeColor=light-dark(#000000,#000000);strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;flowAnimation=0;" target="SFLqxWl9wwluummD9H-M-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
