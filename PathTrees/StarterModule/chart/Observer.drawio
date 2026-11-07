@@ -1,29 +1,20 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="CGJdvX7ooLQ8CaN04msj">
-    <mxGraphModel dx="1163" dy="1007" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="light-dark(#FFFFFF,#B99574)" math="0" shadow="0">
+    <mxGraphModel dx="1507" dy="1079" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="light-dark(#FFFFFF,#B99574)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="MUm8Yx6a8LPYP2MQTgBc-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 72px;&quot;&gt;&lt;b&gt;&lt;font face=&quot;Alegreya&quot; style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Path of the Observer&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="70" width="1660" x="20" y="20" as="geometry" />
         </mxCell>
-        <mxCell id="SFLqxWl9wwluummD9H-M-1" connectable="0" parent="1" style="group;spacing=5;" value="" vertex="1">
-          <mxGeometry height="90" width="170" x="580" y="230" as="geometry" />
-        </mxCell>
-        <mxCell id="SFLqxWl9wwluummD9H-M-2" parent="SFLqxWl9wwluummD9H-M-1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;gradientColor=light-dark(#99FFCC,#99FFCC);gradientDirection=radial;fillColor=light-dark(#CCFFE6,#CCFFE6);spacing=5;" value="" vertex="1">
-          <mxGeometry height="90" width="170" as="geometry" />
-        </mxCell>
-        <mxCell id="SFLqxWl9wwluummD9H-M-3" parent="SFLqxWl9wwluummD9H-M-1" style="rounded=1;whiteSpace=wrap;html=1;perimeterSpacing=0;dashed=1;dashPattern=8 4 1 4;fillColor=none;align=left;verticalAlign=middle;fontColor=light-dark(#000000,#000000);fontFamily=Alegreya;spacingLeft=0;spacingRight=0;spacingTop=0;spacingBottom=0;spacing=5;" value="&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;span style=&quot;&quot;&gt;???&amp;nbsp;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;span style=&quot;&quot;&gt;(0 XP)&amp;nbsp;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;i&gt;☒&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;i&gt;(???)&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;justify&quot;&gt;&lt;font style=&quot;font-size: 14px; line-height: 100%;&quot;&gt;???&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="81.00000000000003" width="160" x="5" y="4.5" as="geometry" />
-        </mxCell>
         <mxCell id="sQCWTHDNCmR0NUjEQE_5-2" connectable="0" parent="1" style="group;spacing=5;" value="" vertex="1">
-          <mxGeometry height="100" width="170" x="1000" y="240" as="geometry" />
+          <mxGeometry height="110" width="170" x="880" y="510" as="geometry" />
         </mxCell>
         <mxCell id="sQCWTHDNCmR0NUjEQE_5-3" parent="sQCWTHDNCmR0NUjEQE_5-2" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;gradientColor=light-dark(#99FFCC,#99FFCC);gradientDirection=radial;fillColor=light-dark(#CCFFE6,#CCFFE6);spacing=5;" value="" vertex="1">
-          <mxGeometry height="100" width="170" as="geometry" />
+          <mxGeometry height="110.00000000000001" width="170" as="geometry" />
         </mxCell>
-        <mxCell id="sQCWTHDNCmR0NUjEQE_5-4" parent="sQCWTHDNCmR0NUjEQE_5-2" style="rounded=1;whiteSpace=wrap;html=1;perimeterSpacing=0;dashed=1;dashPattern=8 4 1 4;fillColor=none;align=left;verticalAlign=middle;fontColor=light-dark(#000000,#000000);fontFamily=Alegreya;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;spacing=5;" value="&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;span style=&quot;&quot;&gt;Call Out&amp;nbsp;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;span style=&quot;&quot;&gt;(? XP)&amp;nbsp;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;i&gt;☐&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;i&gt;(&lt;b&gt;1&lt;/b&gt;&amp;nbsp;Resolve)&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;justify&quot;&gt;&lt;font style=&quot;font-size: 14px; line-height: 100%;&quot;&gt;You can allow another creature to use your sight as if it was their sight.&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="90.00000000000004" width="160" x="5" y="5.000000000000002" as="geometry" />
+        <mxCell id="sQCWTHDNCmR0NUjEQE_5-4" parent="sQCWTHDNCmR0NUjEQE_5-2" style="rounded=1;whiteSpace=wrap;html=1;perimeterSpacing=0;dashed=1;dashPattern=8 4 1 4;fillColor=none;align=left;verticalAlign=middle;fontColor=light-dark(#000000,#000000);fontFamily=Alegreya;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;spacing=5;" value="&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;span style=&quot;&quot;&gt;Call Out&amp;nbsp;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;span style=&quot;&quot;&gt;(0 XP)&amp;nbsp;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;i&gt;☒&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;i&gt;(&lt;b&gt;1&lt;/b&gt;&amp;nbsp;Resolve)&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;justify&quot;&gt;&lt;font style=&quot;font-size: 14px; line-height: 100%;&quot;&gt;You can allow another creature to use your sight as if it was their sight If you can clearly see them.&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="99.00000000000006" width="160" x="5" y="5.500000000000003" as="geometry" />
         </mxCell>
         <mxCell id="yM57nGgzenyTEG33gMYy-1" connectable="0" parent="1" style="group;spacing=5;" value="" vertex="1">
           <mxGeometry height="100" width="170" x="390" y="320" as="geometry" />
@@ -35,7 +26,7 @@
           <mxGeometry height="90.00000000000004" width="160" x="5" y="5.000000000000002" as="geometry" />
         </mxCell>
         <mxCell id="yM57nGgzenyTEG33gMYy-4" connectable="0" parent="1" style="group;spacing=5;" value="" vertex="1">
-          <mxGeometry height="140" width="170" x="260" y="450" as="geometry" />
+          <mxGeometry height="140" width="170" x="100" y="350" as="geometry" />
         </mxCell>
         <mxCell id="yM57nGgzenyTEG33gMYy-5" parent="yM57nGgzenyTEG33gMYy-4" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;gradientColor=light-dark(#99FFCC,#99FFCC);gradientDirection=radial;fillColor=light-dark(#CCFFE6,#CCFFE6);spacing=5;" value="" vertex="1">
           <mxGeometry height="140" width="170" as="geometry" />
@@ -44,7 +35,7 @@
           <mxGeometry height="126.00000000000004" width="160" x="5" y="7.000000000000003" as="geometry" />
         </mxCell>
         <mxCell id="yM57nGgzenyTEG33gMYy-7" connectable="0" parent="1" style="group;spacing=5;" value="" vertex="1">
-          <mxGeometry height="100" width="170" x="590" y="490" as="geometry" />
+          <mxGeometry height="100" width="170" x="460" y="480" as="geometry" />
         </mxCell>
         <mxCell id="yM57nGgzenyTEG33gMYy-8" parent="yM57nGgzenyTEG33gMYy-7" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;gradientColor=light-dark(#99FFCC,#99FFCC);gradientDirection=radial;fillColor=light-dark(#CCFFE6,#CCFFE6);spacing=5;" value="" vertex="1">
           <mxGeometry height="100" width="170" as="geometry" />
@@ -87,6 +78,138 @@
         </mxCell>
         <mxCell id="yM57nGgzenyTEG33gMYy-21" parent="yM57nGgzenyTEG33gMYy-19" style="rounded=1;whiteSpace=wrap;html=1;perimeterSpacing=0;dashed=1;dashPattern=8 4 1 4;fillColor=none;align=left;verticalAlign=middle;fontColor=light-dark(#000000,#000000);fontFamily=Alegreya;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;spacing=5;" value="&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;span style=&quot;&quot;&gt;Clue Magnet&amp;nbsp;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;span style=&quot;&quot;&gt;(? XP)&amp;nbsp;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;i&gt;☐&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;i&gt;(&lt;b&gt;1 &lt;/b&gt;Resolve)&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;justify&quot;&gt;&lt;font style=&quot;font-size: 14px; line-height: 100%;&quot;&gt;Before making a skill check to locate something hidden, you can choose to forego the skill check and act as if you rolled a 6.&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="126.00000000000006" width="160" x="5" y="7.000000000000003" as="geometry" />
+        </mxCell>
+        <mxCell id="_op06R68Qf1_vnDKZ4UE-1" parent="1" style="swimlane;whiteSpace=wrap;html=1;fillColor=light-dark(#948275,#948275);strokeColor=none;rounded=1;roundedPerimeter=1;swimlaneFillColor=light-dark(#FFE6CC,#FFE6CC);" value="&lt;font face=&quot;Alegreya&quot; style=&quot;font-size: 16px;&quot;&gt;Clear Sight&lt;/font&gt;" vertex="1">
+          <mxGeometry height="110" width="200" x="1460" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_op06R68Qf1_vnDKZ4UE-2" parent="_op06R68Qf1_vnDKZ4UE-1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;fontColor=light-dark(#000000,#000000);align=left;" value="&lt;div align=&quot;justify&quot;&gt;&lt;font face=&quot;Alegreya&quot;&gt;If an ability specifies that you need to be able to see something clearly, you must be able to see it, it must be within 12m, and you must have unobstructed line of sight to it.&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="180" x="10" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_op06R68Qf1_vnDKZ4UE-3" connectable="0" parent="1" style="group;spacing=5;" value="" vertex="1">
+          <mxGeometry height="90" width="170" x="650" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="_op06R68Qf1_vnDKZ4UE-4" parent="_op06R68Qf1_vnDKZ4UE-3" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;gradientColor=light-dark(#99FFCC,#99FFCC);gradientDirection=radial;fillColor=light-dark(#CCFFE6,#CCFFE6);spacing=5;" value="" vertex="1">
+          <mxGeometry height="90" width="170" as="geometry" />
+        </mxCell>
+        <mxCell id="_op06R68Qf1_vnDKZ4UE-5" parent="_op06R68Qf1_vnDKZ4UE-3" style="rounded=1;whiteSpace=wrap;html=1;perimeterSpacing=0;dashed=1;dashPattern=8 4 1 4;fillColor=none;align=left;verticalAlign=middle;fontColor=light-dark(#000000,#000000);fontFamily=Alegreya;spacingLeft=0;spacingRight=0;spacingTop=0;spacingBottom=0;spacing=5;" value="&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;span style=&quot;&quot;&gt;Spyglass&amp;nbsp;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;span style=&quot;&quot;&gt;(0 XP)&amp;nbsp;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;i&gt;☒&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;i&gt;(&lt;b&gt;1&lt;/b&gt; Resolve)&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;justify&quot;&gt;&lt;font style=&quot;font-size: 14px; line-height: 100%;&quot;&gt;The range limit on clear sight is doubled for you, for one ability use.&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="81.00000000000003" width="160" x="5" y="4.5" as="geometry" />
+        </mxCell>
+        <mxCell id="_op06R68Qf1_vnDKZ4UE-6" connectable="0" parent="1" style="group;spacing=5;" value="" vertex="1">
+          <mxGeometry height="80" width="170" x="620" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="_op06R68Qf1_vnDKZ4UE-7" parent="_op06R68Qf1_vnDKZ4UE-6" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;gradientColor=light-dark(#99FFCC,#99FFCC);gradientDirection=radial;fillColor=light-dark(#CCFFE6,#CCFFE6);spacing=5;" value="" vertex="1">
+          <mxGeometry height="80" width="170" as="geometry" />
+        </mxCell>
+        <mxCell id="_op06R68Qf1_vnDKZ4UE-8" parent="_op06R68Qf1_vnDKZ4UE-6" style="rounded=1;whiteSpace=wrap;html=1;perimeterSpacing=0;dashed=1;dashPattern=8 4 1 4;fillColor=none;align=left;verticalAlign=middle;fontColor=light-dark(#000000,#000000);fontFamily=Alegreya;spacingLeft=0;spacingRight=0;spacingTop=0;spacingBottom=0;spacing=5;" value="&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;span style=&quot;&quot;&gt;Longview&amp;nbsp;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;span style=&quot;&quot;&gt;(? XP)&amp;nbsp;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;i&gt;☐&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;i&gt;(Passive)&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;justify&quot;&gt;&lt;font style=&quot;font-size: 14px; line-height: 100%;&quot;&gt;The range limit on clear sight is doubled for you.&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="72.00000000000001" width="160" x="5" y="4" as="geometry" />
+        </mxCell>
+        <mxCell id="_op06R68Qf1_vnDKZ4UE-9" connectable="0" parent="1" style="group;spacing=5;" value="" vertex="1">
+          <mxGeometry height="180" width="170" x="1180" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="_op06R68Qf1_vnDKZ4UE-10" parent="_op06R68Qf1_vnDKZ4UE-9" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;gradientColor=light-dark(#99FFCC,#99FFCC);gradientDirection=radial;fillColor=light-dark(#CCFFE6,#CCFFE6);spacing=5;" value="" vertex="1">
+          <mxGeometry height="180" width="170" as="geometry" />
+        </mxCell>
+        <mxCell id="_op06R68Qf1_vnDKZ4UE-11" parent="_op06R68Qf1_vnDKZ4UE-9" style="rounded=1;whiteSpace=wrap;html=1;perimeterSpacing=0;dashed=1;dashPattern=8 4 1 4;fillColor=none;align=left;verticalAlign=middle;fontColor=light-dark(#000000,#000000);fontFamily=Alegreya;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;spacing=5;" value="&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;span style=&quot;&quot;&gt;Stalk&amp;nbsp;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;span style=&quot;&quot;&gt;(? XP)&amp;nbsp;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;i&gt;☐&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;i&gt;(&lt;b&gt;1&lt;/b&gt; Action,&amp;nbsp;&lt;b&gt;1&lt;/b&gt;&amp;nbsp;Resolve)&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;justify&quot;&gt;&lt;font style=&quot;font-size: 14px; line-height: 100%;&quot;&gt;Choose a creature you can see clearly, when they would loose resolve, they loose 1 additional. This effect ends when you use Stalk again, or you can no longer see the creature clearly.&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="162.00000000000009" width="160" x="5" y="9.000000000000004" as="geometry" />
+        </mxCell>
+        <mxCell id="_op06R68Qf1_vnDKZ4UE-12" connectable="0" parent="1" style="group;spacing=5;" value="" vertex="1">
+          <mxGeometry height="100" width="170" x="1380" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="_op06R68Qf1_vnDKZ4UE-13" parent="_op06R68Qf1_vnDKZ4UE-12" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;gradientColor=light-dark(#99FFCC,#99FFCC);gradientDirection=radial;fillColor=light-dark(#CCFFE6,#CCFFE6);spacing=5;" value="" vertex="1">
+          <mxGeometry height="100" width="170" as="geometry" />
+        </mxCell>
+        <mxCell id="_op06R68Qf1_vnDKZ4UE-14" parent="_op06R68Qf1_vnDKZ4UE-12" style="rounded=1;whiteSpace=wrap;html=1;perimeterSpacing=0;dashed=1;dashPattern=8 4 1 4;fillColor=none;align=left;verticalAlign=middle;fontColor=light-dark(#000000,#000000);fontFamily=Alegreya;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;spacing=5;" value="&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;span style=&quot;&quot;&gt;Stalk+&amp;nbsp;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;span style=&quot;&quot;&gt;(? XP)&amp;nbsp;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;i&gt;☐&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;i&gt;(Upgrade)&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;justify&quot;&gt;&lt;font style=&quot;font-size: 14px; line-height: 100%;&quot;&gt;A creature affected by your Stalk ability cannot gain resolve.&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90.00000000000006" width="160" x="5" y="5.000000000000002" as="geometry" />
+        </mxCell>
+        <mxCell id="_op06R68Qf1_vnDKZ4UE-15" connectable="0" parent="1" style="group;spacing=5;" value="" vertex="1">
+          <mxGeometry height="100" width="170" x="1420" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="_op06R68Qf1_vnDKZ4UE-16" parent="_op06R68Qf1_vnDKZ4UE-15" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;gradientColor=light-dark(#99FFCC,#99FFCC);gradientDirection=radial;fillColor=light-dark(#CCFFE6,#CCFFE6);spacing=5;" value="" vertex="1">
+          <mxGeometry height="100" width="170" as="geometry" />
+        </mxCell>
+        <mxCell id="_op06R68Qf1_vnDKZ4UE-17" parent="_op06R68Qf1_vnDKZ4UE-15" style="rounded=1;whiteSpace=wrap;html=1;perimeterSpacing=0;dashed=1;dashPattern=8 4 1 4;fillColor=none;align=left;verticalAlign=middle;fontColor=light-dark(#000000,#000000);fontFamily=Alegreya;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;spacing=5;" value="&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;span style=&quot;&quot;&gt;Stone Gaze&amp;nbsp;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;span style=&quot;&quot;&gt;(? XP)&amp;nbsp;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;i&gt;☐&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;i&gt;(Upgrade)&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;justify&quot;&gt;&lt;font style=&quot;font-size: 14px; line-height: 100%;&quot;&gt;A creature affected by your Stalk ability has -2 effective speed.&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90.00000000000006" width="160" x="5" y="5.000000000000002" as="geometry" />
+        </mxCell>
+        <mxCell id="_op06R68Qf1_vnDKZ4UE-24" connectable="0" parent="1" style="group;spacing=5;" value="" vertex="1">
+          <mxGeometry height="150" width="170" x="970" y="710" as="geometry" />
+        </mxCell>
+        <mxCell id="_op06R68Qf1_vnDKZ4UE-25" parent="_op06R68Qf1_vnDKZ4UE-24" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;gradientColor=light-dark(#99FFCC,#99FFCC);gradientDirection=radial;fillColor=light-dark(#CCFFE6,#CCFFE6);spacing=5;" value="" vertex="1">
+          <mxGeometry height="150" width="170" as="geometry" />
+        </mxCell>
+        <mxCell id="_op06R68Qf1_vnDKZ4UE-26" parent="_op06R68Qf1_vnDKZ4UE-24" style="rounded=1;whiteSpace=wrap;html=1;perimeterSpacing=0;dashed=1;dashPattern=8 4 1 4;fillColor=none;align=left;verticalAlign=middle;fontColor=light-dark(#000000,#000000);fontFamily=Alegreya;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;spacing=5;" value="&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;span style=&quot;&quot;&gt;Sir Curity&amp;nbsp;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;span style=&quot;&quot;&gt;(? XP)&amp;nbsp;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;i&gt;☐&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;i&gt;(&lt;b&gt;1&lt;/b&gt; Action,&amp;nbsp;&lt;b&gt;1&lt;/b&gt;&amp;nbsp;Resolve)&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;justify&quot;&gt;&lt;font style=&quot;font-size: 14px; line-height: 100%;&quot;&gt;Choose a point on a surface or creature within 1m. You can see from that point until you take a sanctuary, or use Sir Curity again.&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="135.00000000000009" width="160" x="5" y="7.500000000000003" as="geometry" />
+        </mxCell>
+        <mxCell id="_op06R68Qf1_vnDKZ4UE-27" connectable="0" parent="1" style="group;spacing=5;" value="" vertex="1">
+          <mxGeometry height="110" width="170" x="1240" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="_op06R68Qf1_vnDKZ4UE-28" parent="_op06R68Qf1_vnDKZ4UE-27" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;gradientColor=light-dark(#99FFCC,#99FFCC);gradientDirection=radial;fillColor=light-dark(#CCFFE6,#CCFFE6);spacing=5;" value="" vertex="1">
+          <mxGeometry height="110" width="170" as="geometry" />
+        </mxCell>
+        <mxCell id="_op06R68Qf1_vnDKZ4UE-29" parent="_op06R68Qf1_vnDKZ4UE-27" style="rounded=1;whiteSpace=wrap;html=1;perimeterSpacing=0;dashed=1;dashPattern=8 4 1 4;fillColor=none;align=left;verticalAlign=middle;fontColor=light-dark(#000000,#000000);fontFamily=Alegreya;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;spacing=5;" value="&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;span style=&quot;&quot;&gt;Eye See You &lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;span style=&quot;&quot;&gt;(? XP)&amp;nbsp;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;i&gt;☐&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;i&gt;(Upgrade)&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;justify&quot;&gt;&lt;font style=&quot;font-size: 14px; line-height: 100%;&quot;&gt;Creatures within 4m of Sir Curity cannot benefit from the Obscured condition.&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="99.00000000000006" width="160" x="5" y="5.500000000000002" as="geometry" />
+        </mxCell>
+        <mxCell id="_op06R68Qf1_vnDKZ4UE-30" connectable="0" parent="1" style="group;spacing=5;" value="" vertex="1">
+          <mxGeometry height="90" width="170" x="220" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="_op06R68Qf1_vnDKZ4UE-31" parent="_op06R68Qf1_vnDKZ4UE-30" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;gradientColor=light-dark(#99FFCC,#99FFCC);gradientDirection=radial;fillColor=light-dark(#CCFFE6,#CCFFE6);spacing=5;" value="" vertex="1">
+          <mxGeometry height="90" width="170" as="geometry" />
+        </mxCell>
+        <mxCell id="_op06R68Qf1_vnDKZ4UE-32" parent="_op06R68Qf1_vnDKZ4UE-30" style="rounded=1;whiteSpace=wrap;html=1;perimeterSpacing=0;dashed=1;dashPattern=8 4 1 4;fillColor=none;align=left;verticalAlign=middle;fontColor=light-dark(#000000,#000000);fontFamily=Alegreya;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;spacing=5;" value="&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;span style=&quot;&quot;&gt;End in Sight&amp;nbsp;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;span style=&quot;&quot;&gt;(? XP)&amp;nbsp;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;i&gt;☐&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;i&gt;(Passive)&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;justify&quot;&gt;&lt;font style=&quot;font-size: 14px; line-height: 100%;&quot;&gt;You ignore the obscured condition on creatures with 0 resolve.&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="81.00000000000004" width="160" x="5" y="4.500000000000002" as="geometry" />
+        </mxCell>
+        <mxCell id="_op06R68Qf1_vnDKZ4UE-33" connectable="0" parent="1" style="group;spacing=5;" value="" vertex="1">
+          <mxGeometry height="100" width="170" x="890" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="_op06R68Qf1_vnDKZ4UE-34" parent="_op06R68Qf1_vnDKZ4UE-33" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;gradientColor=light-dark(#99FFCC,#99FFCC);gradientDirection=radial;fillColor=light-dark(#CCFFE6,#CCFFE6);spacing=5;" value="" vertex="1">
+          <mxGeometry height="100" width="170" as="geometry" />
+        </mxCell>
+        <mxCell id="_op06R68Qf1_vnDKZ4UE-35" parent="_op06R68Qf1_vnDKZ4UE-33" style="rounded=1;whiteSpace=wrap;html=1;perimeterSpacing=0;dashed=1;dashPattern=8 4 1 4;fillColor=none;align=left;verticalAlign=middle;fontColor=light-dark(#000000,#000000);fontFamily=Alegreya;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;spacing=5;" value="&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;span style=&quot;&quot;&gt;Hive Mind&amp;nbsp;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;span style=&quot;&quot;&gt;(? XP)&amp;nbsp;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;i&gt;☐&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;i&gt;(&lt;b&gt;3&lt;/b&gt;&amp;nbsp;Resolve)&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;justify&quot;&gt;&lt;font style=&quot;font-size: 14px; line-height: 100%;&quot;&gt;For the rest of the scene, creatures of your choice can use the Call Out ability&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90.00000000000004" width="160" x="5" y="5.000000000000002" as="geometry" />
+        </mxCell>
+        <mxCell id="_op06R68Qf1_vnDKZ4UE-36" connectable="0" parent="1" style="group;spacing=5;" value="" vertex="1">
+          <mxGeometry height="100" width="170" x="1200" y="920" as="geometry" />
+        </mxCell>
+        <mxCell id="_op06R68Qf1_vnDKZ4UE-37" parent="_op06R68Qf1_vnDKZ4UE-36" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;gradientColor=light-dark(#99FFCC,#99FFCC);gradientDirection=radial;fillColor=light-dark(#CCFFE6,#CCFFE6);spacing=5;" value="" vertex="1">
+          <mxGeometry height="100" width="170" as="geometry" />
+        </mxCell>
+        <mxCell id="_op06R68Qf1_vnDKZ4UE-38" parent="_op06R68Qf1_vnDKZ4UE-36" style="rounded=1;whiteSpace=wrap;html=1;perimeterSpacing=0;dashed=1;dashPattern=8 4 1 4;fillColor=none;align=left;verticalAlign=middle;fontColor=light-dark(#000000,#000000);fontFamily=Alegreya;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;spacing=5;" value="&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;span style=&quot;&quot;&gt;Sir Curity+&amp;nbsp;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;span style=&quot;&quot;&gt;(? XP)&amp;nbsp;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;i&gt;☐&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;i&gt;(Upgrade)&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;justify&quot;&gt;&lt;font style=&quot;font-size: 14px; line-height: 100%;&quot;&gt;The point you choose for Sir Curitiy can be within 6m.&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90.00000000000006" width="160" x="5" y="5.000000000000003" as="geometry" />
+        </mxCell>
+        <mxCell id="_op06R68Qf1_vnDKZ4UE-39" connectable="0" parent="1" style="group;spacing=5;" value="" vertex="1">
+          <mxGeometry height="140" width="170" x="920" y="950" as="geometry" />
+        </mxCell>
+        <mxCell id="_op06R68Qf1_vnDKZ4UE-40" parent="_op06R68Qf1_vnDKZ4UE-39" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;gradientColor=light-dark(#99FFCC,#99FFCC);gradientDirection=radial;fillColor=light-dark(#CCFFE6,#CCFFE6);spacing=5;" value="" vertex="1">
+          <mxGeometry height="140" width="170" as="geometry" />
+        </mxCell>
+        <mxCell id="_op06R68Qf1_vnDKZ4UE-41" parent="_op06R68Qf1_vnDKZ4UE-39" style="rounded=1;whiteSpace=wrap;html=1;perimeterSpacing=0;dashed=1;dashPattern=8 4 1 4;fillColor=none;align=left;verticalAlign=middle;fontColor=light-dark(#000000,#000000);fontFamily=Alegreya;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;spacing=5;" value="&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;span style=&quot;&quot;&gt;B-eye&amp;nbsp;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;span style=&quot;&quot;&gt;(? XP)&amp;nbsp;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;i&gt;☐&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;i&gt;(&lt;b&gt;1&lt;/b&gt;&amp;nbsp;Resolve)&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;justify&quot;&gt;&lt;font style=&quot;font-size: 14px; line-height: 100%;&quot;&gt;Sir Curity ends, all creatures within 3m of the point loose 1 resolve, and are blinded until they spend an action to end the condition.&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="126.00000000000009" width="160" x="5" y="7.000000000000003" as="geometry" />
+        </mxCell>
+        <mxCell id="_op06R68Qf1_vnDKZ4UE-42" connectable="0" parent="1" style="group;spacing=5;" value="" vertex="1">
+          <mxGeometry height="90" width="170" x="600" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="_op06R68Qf1_vnDKZ4UE-43" parent="_op06R68Qf1_vnDKZ4UE-42" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;gradientColor=light-dark(#99FFCC,#99FFCC);gradientDirection=radial;fillColor=light-dark(#CCFFE6,#CCFFE6);spacing=5;" value="" vertex="1">
+          <mxGeometry height="90" width="170" as="geometry" />
+        </mxCell>
+        <mxCell id="_op06R68Qf1_vnDKZ4UE-44" parent="_op06R68Qf1_vnDKZ4UE-42" style="rounded=1;whiteSpace=wrap;html=1;perimeterSpacing=0;dashed=1;dashPattern=8 4 1 4;fillColor=none;align=left;verticalAlign=middle;fontColor=light-dark(#000000,#000000);fontFamily=Alegreya;spacingLeft=0;spacingRight=0;spacingTop=0;spacingBottom=0;spacing=5;" value="&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;span style=&quot;&quot;&gt;X-ray&amp;nbsp;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;span style=&quot;&quot;&gt;(? XP)&amp;nbsp;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;i&gt;☐&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;i&gt;(Passive)&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;justify&quot;&gt;&lt;font style=&quot;font-size: 14px; line-height: 100%;&quot;&gt;You can see through obstructions out to a range of 6m.&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="81.00000000000001" width="160" x="5" y="4.5" as="geometry" />
+        </mxCell>
+        <mxCell id="_op06R68Qf1_vnDKZ4UE-45" connectable="0" parent="1" style="group;spacing=5;" value="" vertex="1">
+          <mxGeometry height="110" width="170" x="1130" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="_op06R68Qf1_vnDKZ4UE-46" parent="_op06R68Qf1_vnDKZ4UE-45" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;gradientColor=light-dark(#99FFCC,#99FFCC);gradientDirection=radial;fillColor=light-dark(#CCFFE6,#CCFFE6);spacing=5;" value="" vertex="1">
+          <mxGeometry height="110.00000000000001" width="170" as="geometry" />
+        </mxCell>
+        <mxCell id="_op06R68Qf1_vnDKZ4UE-47" parent="_op06R68Qf1_vnDKZ4UE-45" style="rounded=1;whiteSpace=wrap;html=1;perimeterSpacing=0;dashed=1;dashPattern=8 4 1 4;fillColor=none;align=left;verticalAlign=middle;fontColor=light-dark(#000000,#000000);fontFamily=Alegreya;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;spacing=5;" value="&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;span style=&quot;&quot;&gt;Eyejack&amp;nbsp;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;span style=&quot;&quot;&gt;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;span style=&quot;&quot;&gt;(? XP)&amp;nbsp;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;i&gt;☐&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;i&gt;(&lt;b&gt;2&lt;/b&gt;&amp;nbsp;Resolve)&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;justify&quot;&gt;&lt;font style=&quot;font-size: 14px; line-height: 100%;&quot;&gt;You can use another creature&#39;s sight as your own if you can clearly see them.&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="99.00000000000006" width="160" x="5" y="5.500000000000003" as="geometry" />
+        </mxCell>
+        <mxCell id="_op06R68Qf1_vnDKZ4UE-48" connectable="0" parent="1" style="group;spacing=5;" value="" vertex="1">
+          <mxGeometry height="110" width="170" x="1350" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="_op06R68Qf1_vnDKZ4UE-49" parent="_op06R68Qf1_vnDKZ4UE-48" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;gradientColor=light-dark(#99FFCC,#99FFCC);gradientDirection=radial;fillColor=light-dark(#CCFFE6,#CCFFE6);spacing=5;" value="" vertex="1">
+          <mxGeometry height="110.00000000000001" width="170" as="geometry" />
+        </mxCell>
+        <mxCell id="_op06R68Qf1_vnDKZ4UE-50" parent="_op06R68Qf1_vnDKZ4UE-48" style="rounded=1;whiteSpace=wrap;html=1;perimeterSpacing=0;dashed=1;dashPattern=8 4 1 4;fillColor=none;align=left;verticalAlign=middle;fontColor=light-dark(#000000,#000000);fontFamily=Alegreya;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;spacing=5;" value="&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;span style=&quot;&quot;&gt;Ping&amp;nbsp;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;span style=&quot;&quot;&gt;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;span style=&quot;&quot;&gt;(? XP)&amp;nbsp;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;i&gt;☐&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;i&gt;(&lt;b&gt;1&lt;/b&gt; Action, &lt;b&gt;1&lt;/b&gt;&amp;nbsp;Resolve)&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;justify&quot;&gt;&lt;font style=&quot;font-size: 14px; line-height: 100%;&quot;&gt;Choose a creature you can clearly see, all skill checks against them gain a +1d6 for the rest of the scene&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="99.00000000000006" width="160" x="5" y="5.500000000000003" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
